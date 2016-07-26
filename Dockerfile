@@ -1,4 +1,4 @@
-# xmisao/docker-revealgo
+# xmisao/revealgo
 
 FROM golang:1.6.3-alpine
 MAINTAINER xmisao
